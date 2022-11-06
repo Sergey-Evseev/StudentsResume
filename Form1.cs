@@ -42,7 +42,7 @@ namespace Student_s_Resume
                     : $"MessageBox {i + 1}";
                 
                 MessageBox.Show(array[i], caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+            } 
         }
     }    
 }
